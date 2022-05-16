@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EncrytionDecrytion</id>
+    <version>1.0.0</version>
+    <authors>Praveen Thakur</authors>
+    <description>This package for encrytion and decryption the text</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Authentication.AzureAD.UI" version="3.1.24" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/appsettings.Development.json" buildAction="Content" />
+      <files include="any/netcoreapp3.1/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\bin\Debug\netcoreapp3.1\encryptioncore.api.runtimeconfig.json" target="lib\netcoreapp3.1\encryptioncore.api.runtimeconfig.json" />
+    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\bin\Debug\netcoreapp3.1\encryptioncore.api.dll" target="lib\netcoreapp3.1\encryptioncore.api.dll" />
+    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.Development.json" target="contentFiles\any\netcoreapp3.1\appsettings.Development.json" />
+    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.json" target="content\appsettings.json" />
+    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.json" target="contentFiles\any\netcoreapp3.1\appsettings.json" />
+  </files>
+</package>

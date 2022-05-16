@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-encryptioncore.api-403CDF86-CD1E-45CB-97F6-C0A3FCE3632F</UserSecretsId>
+    <WebProject_DirectoryAccessLevelKey>0</WebProject_DirectoryAccessLevelKey>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This package for encrytion and decryption the text</Description>
+    <Authors>Praveen Thakur</Authors>
+    <Company>TawMediaGroup</Company>
+    <Product>EncrytionDecrytion</Product>
+	<IsPackable>true</IsPackable>
+	<PackageId>EncrytionDecrytion</PackageId> 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.AzureAD.UI" Version="3.1.24" />
+  </ItemGroup>
+
+</Project>

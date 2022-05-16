@@ -1,0 +1,10 @@
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\bin\Debug\netcoreapp3.1\TawMediaGroup.deps.json
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\bin\Debug\netcoreapp3.1\TawMediaGroup.dll
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\bin\Debug\netcoreapp3.1\TawMediaGroup.pdb
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.csproj.AssemblyReference.cache
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.AssemblyInfoInputs.cache
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.AssemblyInfo.cs
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.csproj.CoreCompileInputs.cache
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.dll
+E:\Work\Websites\encryptioncore.api\TawMediaGroup\obj\Debug\netcoreapp3.1\TawMediaGroup.pdb
