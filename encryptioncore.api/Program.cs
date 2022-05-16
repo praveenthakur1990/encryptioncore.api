@@ -16,9 +16,6 @@ namespace encryptioncore.api
         {
             CreateHostBuilder(args).Build().Run();
 
-            string encryptedStr = EnctyptDecryptManager.Encrypt("Hello");
-            string decryptedStr = EnctyptDecryptManager.Decrypt(encryptedStr);
-
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

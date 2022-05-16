@@ -21,11 +21,11 @@
     </contentFiles>
   </metadata>
   <files>
-    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\bin\Debug\netcoreapp3.1\encryptioncore.api.runtimeconfig.json" target="lib\netcoreapp3.1\encryptioncore.api.runtimeconfig.json" />
-    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\bin\Debug\netcoreapp3.1\encryptioncore.api.dll" target="lib\netcoreapp3.1\encryptioncore.api.dll" />
-    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.Development.json" target="content\appsettings.Development.json" />
-    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.Development.json" target="contentFiles\any\netcoreapp3.1\appsettings.Development.json" />
-    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.json" target="content\appsettings.json" />
-    <file src="E:\Work\Websites\encryptioncore.api\encryptioncore.api\appsettings.json" target="contentFiles\any\netcoreapp3.1\appsettings.json" />
+    <file src="D:\Projects\encryptioncore.api\encryptioncore.api\bin\Debug\netcoreapp3.1\encryptioncore.api.runtimeconfig.json" target="lib\netcoreapp3.1\encryptioncore.api.runtimeconfig.json" />
+    <file src="D:\Projects\encryptioncore.api\encryptioncore.api\bin\Debug\netcoreapp3.1\encryptioncore.api.dll" target="lib\netcoreapp3.1\encryptioncore.api.dll" />
+    <file src="D:\Projects\encryptioncore.api\encryptioncore.api\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="D:\Projects\encryptioncore.api\encryptioncore.api\appsettings.Development.json" target="contentFiles\any\netcoreapp3.1\appsettings.Development.json" />
+    <file src="D:\Projects\encryptioncore.api\encryptioncore.api\appsettings.json" target="content\appsettings.json" />
+    <file src="D:\Projects\encryptioncore.api\encryptioncore.api\appsettings.json" target="contentFiles\any\netcoreapp3.1\appsettings.json" />
   </files>
 </package>
